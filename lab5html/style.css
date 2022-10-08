@@ -1,0 +1,45 @@
+body {
+    height: 100vh;
+    padding: 100px 50px;
+
+    background-image: url('https://dcomfra.vdu.lt/wp-content/uploads/2020/05/NTU_KhPI_Logo-1.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: green;
+    font-size: 20px;
+}
+
+#khpi-history {
+    color: lime;
+    font-style: italic;
+}
+
+.khpi-history {
+    color: maroon;
+}
+
+html body p span {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.paragraph1 {
+    text-indent: 15px;
+    text-align: justify;
+    color: yellow;
+}
+
+.paragraph2 {
+    font-size: 14pt;
+    color: blue;
+    text-decoration: underline;
+}
+
+.paragraph3 {
+    text-align: center;
+    letter-spacing: 10px;
+}
